@@ -9,7 +9,7 @@ Takes up to 9 candidates, and returns the winner based on the inputted votes.
 
 Example usage:
 
-./tideman Alice Bob Charlie \n
+./tideman Alice Bob Charlie
 Number of voters: 5
 Rank 1: Alice
 Rank 2: Charlie
